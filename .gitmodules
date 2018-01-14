@@ -1,0 +1,30 @@
+#
+# dotphiles : https://github.com/dotphiles/dotphiles
+#
+# Git submodules in this repo
+#
+# Authors:
+#   Ben O'Hara <bohara@gmail.com>
+#
+
+[submodule "dotsync"]
+	path = dotsync
+	url = https://github.com/dotphiles/dotsync.git
+[submodule "zsh/dotzsh"]
+	path = zsh/dotzsh
+	url = https://github.com/dotphiles/dotzsh.git
+[submodule "vim/dotvim"]
+	path = vim/dotvim
+	url = https://github.com/dotphiles/dotvim.git
+[submodule "/Users/cmennen/.dotfiles/antigen"]
+	path = /Users/cmennen/.dotfiles/antigen
+	url = https://github.com/zsh-users/antigen.git
+[submodule "/Users/cmennen/.dotfiles/zsh-autosuggestions"]
+	path = /Users/cmennen/.dotfiles/zsh-autosuggestions
+	url = git://github.com/zsh-users/zsh-autosuggestions
+[submodule "/Users/cmennen/.dotfiles/oh-my-zsh"]
+	path = /Users/cmennen/.dotfiles/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "zplug"]
+	path = zplug
+	url = https://github.com/zplug/zplug
